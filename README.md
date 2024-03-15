@@ -1,3 +1,6 @@
+**How to complete the task**
+- Fork this repository and complete the task by March 25th.
+
 # Video Segmentation Tool
 
 The goal of this project is to develop a video segmentation tool that can take a long video as input and generate smaller clips based on specified filters or criteria. The tool should leverage computer vision and audio analysis techniques to identify relevant segments within the video.
